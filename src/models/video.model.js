@@ -28,7 +28,7 @@ const videoSchema = new Schema({
     type: Number,
     default: 0,
   },
-  isPlublishd: {
+  isPlublished: {
     type: Boolean,
     default: true,
   },
